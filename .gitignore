@@ -1,0 +1,5 @@
+# Fichiers et dossiers à ignorer
+*.log            # Ignorer tous les fichiers .log
+node_modules/    # Ignorer le dossier node_modules
+.env             # Ignorer les fichiers de configuration environnementale
+*/_build        #Ignore les dossiers de build
